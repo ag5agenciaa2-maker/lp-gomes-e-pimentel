@@ -1,0 +1,22 @@
+# Pastas internas de trabalho AG5 (não vai para o repositório público)
+Skill´s Padrões AG5/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+tmp/
+
+# Credenciais e variáveis sensíveis
+.env
+.env.local
+
+# Node (se usar no futuro)
+node_modules/
