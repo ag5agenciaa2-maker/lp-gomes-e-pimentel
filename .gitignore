@@ -20,3 +20,4 @@ tmp/
 
 # Node (se usar no futuro)
 node_modules/
+.wrangler/
